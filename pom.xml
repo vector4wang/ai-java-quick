@@ -9,6 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>quick-bayes</module>
+        <module>quick-text-similarity</module>
+        <module>quick-logistic</module>
     </modules>
     <packaging>pom</packaging>
 
